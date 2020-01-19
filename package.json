@@ -1,5 +1,5 @@
 {
-  "name": "mosun-react-file-viewer",
+  "name": "moensun-react-file-viewer",
   "version": "1.0.0",
   "description": "Extendable file viewer for web",
   "main": "dist/index.js",
@@ -19,19 +19,6 @@
   },
   "author": "PlanGrid <opensource@plangrid.com>",
   "contributors": [
-    {
-      "name": "Alexei Schiopu",
-      "email": "alexxschiopu@gmail.com",
-      "url": "http://schiopu.me"
-    },
-    {
-      "name": "Aaron Norby",
-      "email": "aaron.norby@gmail.com"
-    },
-    {
-      "name": "Viktoriya Savkina",
-      "email": "viktoriya.savkina@gmail.com"
-    }
   ],
   "license": "MIT",
   "bugs": {
