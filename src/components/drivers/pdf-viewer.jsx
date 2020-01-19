@@ -46,7 +46,7 @@ export class PDFPage extends React.Component {
     const { containerWidth, zoom } = this.props;
     const calculatedScale = (containerWidth / page.getViewport(DEFAULT_SCALE).width);
     const scale = calculatedScale > DEFAULT_SCALE ? DEFAULT_SCALE : calculatedScale;
-    const viewport = page.getViewport(scale + zoom);
+    const viewport = page.getViewport(1.8);
     const { width, height } = viewport;
 
     const context = this.canvas.getContext('2d');
