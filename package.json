@@ -1,6 +1,6 @@
 {
   "name": "moensun-react-file-viewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extendable file viewer for web",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -18,8 +18,7 @@
     "tag-and-publish": "node ./scripts/publish.js"
   },
   "author": "PlanGrid <opensource@plangrid.com>",
-  "contributors": [
-  ],
+  "contributors": [],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xiaolide-github/mosun-react-file-viewer/issues"
